@@ -1,1 +1,1 @@
-This is a program that queries a MongoDB petsitters database in the 'vendors' collection, returns any matching cities and businesses, and prints each result in a .csv file. For dataset, see https://github.com/nickdec/NoSQL/tree/master/tweets
+This is a program that queries MongoDB and prints each result to a document.
