@@ -1,1 +1,1 @@
-This is a program that queries MongoDB and prints each result to a document.
+This is program queries MongoDB and prints each result to a document.
